@@ -4,9 +4,10 @@ The Task Manager App is a React Native application designed to help users manage
 
 The app communicates with a Node.js backend server, which handles all database operations using Prisma and SQLite. By separating the frontend and backend, the app ensures smooth and efficient task management.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Code Walkthough Video](https://youtu.be/_KEu3ZvQ7Kk)
+[Software Demo Video](https://youtu.be/1Q1yxmyeLgc)<!--on android phone-->
 
-[Beckend Repository](https://github.com/Mikelesnr/taskmanager-api)
+[Beckend Repository](https://github.com/Mikelesnr/taskmanager-api.git)
 
 # Development Environment
 
